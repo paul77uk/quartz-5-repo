@@ -11,7 +11,9 @@ draft:
 
 ### 📺 **45kg Sandbag Clean & Press x 5**
 
-![](https://youtube.com/embed/f4eU2n4Hxys)
+![](https://youtube.com/watch?v=f4eU2n4Hxys)
+
+![](https://youtu.be/7U9rDb83GLE)
 
 ---
 
