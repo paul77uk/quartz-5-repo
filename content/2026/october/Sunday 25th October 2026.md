@@ -13,8 +13,6 @@ draft:
 
 ![](https://youtube.com/watch?v=f4eU2n4Hxys)
 
-![](https://youtu.be/7U9rDb83GLE)
-
 ---
 
 ### **📊 2. Sandbag Overhead Press**
