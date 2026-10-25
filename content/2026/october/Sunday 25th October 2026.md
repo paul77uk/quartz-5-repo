@@ -13,16 +13,6 @@ draft:
 
 ![](https://youtube.com/embed/f4eU2n4Hxys)
 
-
-<iframe 
-  width="100%" height="450"
-  src="https://youtube.com/embed/f4eU2n4Hxys" 
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen *" 
-  allowfullscreen>
-</iframe>
-
-
 ---
 
 ### **📊 2. Sandbag Overhead Press**
@@ -31,6 +21,8 @@ draft:
 > `[SET 2]` 45kg x 5  
 
 ### 📺 **45kg Sandbag Overhead Press x 5**
+
+![](https://youtube.com/embed/-q5sxRMJZbk)
 
 ---
 
@@ -47,7 +39,11 @@ draft:
 
 ### **📺 80kg Sandbag-to-Chest x 3**
 
+![](https://youtube.com/embed/d0QNcr565Lk?feature=share)
+
 ### **📺 70kg Sandbag-to-Chest x 4**
+
+![](https://youtu.be/i4KNukS35hM)
 
 ---
 
