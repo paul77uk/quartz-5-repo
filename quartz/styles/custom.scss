@@ -1,3 +1,21 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.darkmode {
+  display: none !important;
+}
+
+// Hide the self-linking index page and the hidden 404 page from the Recent Notes list element
+.recent-notes a[href*="index"], 
+.recent-notes a[href*="404"],
+.recent-notes [data-slug="index"],
+.recent-notes [data-slug="404"] {
+  display: none !important;
+}
+
+// Hide the Recent Notes header block and its links on all inner post pages
+body:not([data-slug="index"]) .recent-notes,
+body:not([data-slug="index"]) .recent-notes-container,
+body:not([data-slug="index"]) h3:has(+ .recent-notes) {
+  display: none !important;
+}
